@@ -4,6 +4,6 @@ public class Test1
     {
         System.out.println("Hello Java");
         System.out.println("Hello Eclipse changed from GitHub");
-
+        System.out.println("Hello GitHub changed from Eclipse");
     }
 }
